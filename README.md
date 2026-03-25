@@ -25,7 +25,6 @@ b = np.array([5,-3])
 x = np.linalg.solve(a,b)
 print(x)
 ```
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ef90cae1-d81a-44db-9e0d-9c539aa9791b" />
 
 ## Output:
 ![OUTPUT OF EXP 1](<Screenshot 2026-02-04 044033.png>)
